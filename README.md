@@ -8,6 +8,20 @@
 Focused on **clean code**, **performance**, and **great UX** ✨
 
 | 💻 **GitHub** | 🔗 **LinkedIn** |
+## 🤝 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yug-vachhani-bb4133251/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/YugPatel881913">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/y_u_g_p_a_t_e_l_1290/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
 
 </div>
 
@@ -58,40 +72,29 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ---
 
-## 🤝 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/yug-vachhani-bb4133251/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://x.com/YugPatel881913">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.instagram.com/y_u_g_p_a_t_e_l_1290/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
-
----
-
-
-## 🧩 Breakout && ## 📊 GitHub Insights
+🧩 Breakout &&  📊 GitHub Insights
 
 <p align="center">
   <img src="./images/breakout-dark.svg" />
 </p>
 
 <br/>
-<center>
+
+<div align="center">
 <table border="0" width="100%">
   <tr>
+    <td width="50%" align="center"><h3>My GitHub Statistics</h3></td>
+    <td width="50%" align="center"><h3>Languages</h3></td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YUG3011&show_icons=true&theme=dracula&hide_border=true" width="100%" />
+       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YUG3011&show_icons=true&theme=dracula" width="100%" />
     </td>
     <td width="50%" align="center">
-       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YUG3011&layout=donut&theme=dracula&hide_border=true" height="180" alt="languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YUG3011&layout=donut&theme=dracula" width="100%" />
     </td>
   </tr>
 </table>
-</center>
-
 </div>
+
+
