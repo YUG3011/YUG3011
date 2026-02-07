@@ -1,17 +1,22 @@
 name: GitHub Metrics
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   metrics:
     permissions:
-      contents: write   # 🔥 THIS LINE IS REQUIRED
+      contents: write
     runs-on: ubuntu-latest
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
           user: YUG3011
           template: classic
@@ -20,3 +25,4 @@ jobs:
           languages.limit: 10
           languages.details: percentage
           config.timezone: Asia/Kolkata
+          output: github-metrics.svg
