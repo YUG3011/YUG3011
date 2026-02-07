@@ -74,10 +74,27 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 ---
 
 
-## 🧩 Breakout
+## 🧩 Breakout && ## 📊 GitHub Insights
 
 <p align="center">
   <img src="./images/breakout-dark.svg" />
 </p>
 
+<br/>
+<center>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YUG3011&show_icons=true&theme=dracula&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YUG3011&layout=donut&theme=dracula&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+</center>
 
+</div>
+
+
+>
