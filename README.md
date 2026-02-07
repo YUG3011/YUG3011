@@ -88,13 +88,10 @@ Focused on **clean code**, **performance**, and **great UX** ✨
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YUG3011&show_icons=true&theme=dracula&hide_border=true" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YUG3011&layout=donut&theme=dracula&hide_border=true" width="100%" />
+       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YUG3011&layout=donut&theme=dracula&hide_border=true" height="180" alt="languages" />
     </td>
   </tr>
 </table>
 </center>
 
 </div>
-
-
->
