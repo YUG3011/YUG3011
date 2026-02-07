@@ -73,11 +73,6 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./github-metrics.svg" />
-</p>
 
 ## 🧩 Breakout
 
