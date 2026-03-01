@@ -31,7 +31,7 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,scss,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,scss,bootstrap,figma,vite" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ### ☁️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,git,github,docker,postman,npm,yarn,vscode" />
+  <img src="https://skillicons.dev/icons?i=vercel,git,azure,github,docker,postman,npm,yarn,vscode" />
   <img
   src="https://cdn.simpleicons.org/render/ffffff"
   width="38"
