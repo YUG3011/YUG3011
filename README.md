@@ -31,7 +31,7 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,scss,bootstrap,figma" />
 </p>
 
 ---
