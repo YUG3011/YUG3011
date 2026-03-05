@@ -65,7 +65,6 @@ Focused on **clean code**, **performance**, and **great UX** ✨
   "
 />
 
-
 </p>
 
 </p>
@@ -97,4 +96,7 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 </table>
 </div>
 
+<!-- <hr>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,azure,docker,postgres,mongodb,prisma,git,github,express,vercel,js,tailwind,vite,python,postman,npm,yarn,html,css,bootstrap,sass,figma,vscode&perline=7" />
+<hr> -->
 
