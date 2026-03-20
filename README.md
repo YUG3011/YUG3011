@@ -13,12 +13,18 @@ Focused on **clean code**, **performance**, and **great UX** ✨
   <a href="https://www.linkedin.com/in/yug-vachhani-bb4133251/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
+<a href="https://leetcode.com/u/B2tMpLTENh/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+       width="48" height="48"/>
+</a>
   <a href="https://x.com/YugPatel881913">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://www.instagram.com/y_u_g_p_a_t_e_l_1290/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+
 </p>
 
 ---
@@ -52,7 +58,7 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ### ☁️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,git,azure,github,docker,postman,npm,yarn,vscode" />
+  <img src="https://skillicons.dev/icons?i=vercel,git,azure,github,docker,redis,postman,npm,yarn,vscode" />
   <img
   src="https://cdn.simpleicons.org/render/ffffff"
   width="38"
