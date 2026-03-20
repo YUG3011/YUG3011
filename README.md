@@ -44,7 +44,7 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,js,prisma,ts,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,js,redis,prisma,ts,python" />
   <img
     src="https://cdn.simpleicons.org/socketdotio/ffffff"
     width="48"
@@ -58,7 +58,7 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ### ☁️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,git,azure,github,docker,redis,postman,npm,yarn,vscode" />
+  <img src="https://skillicons.dev/icons?i=vercel,git,azure,github,docker,postman,npm,yarn,vscode" />
   <img
   src="https://cdn.simpleicons.org/render/ffffff"
   width="38"
