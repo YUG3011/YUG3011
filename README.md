@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 #  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=👋Yug%20Patel&fontSize=40&fontColor=ffffff" />
 
@@ -8,24 +8,38 @@
 Focused on **clean code**, **performance**, and **great UX** ✨
 
 | 💻 **GitHub** | 🔗 **LinkedIn** |
-## 🤝 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/yug-vachhani-bb4133251/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-<a href="https://leetcode.com/u/B2tMpLTENh/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
-       width="48" height="48"/>
-</a>
-  <a href="https://x.com/YugPatel881913">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.instagram.com/y_u_g_p_a_t_e_l_1290/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 
-</p>
+## 🤝 Connect with me
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/yug-vachhani-bb4133251/">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/B2tMpLTENh/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+             width="48" height="48"/>
+      </a>
+    </td>
+
+  <td>
+      <a href="https://x.com/YugPatel881913">
+        <img src="https://skillicons.dev/icons?i=twitter" />
+      </a>
+    </td>
+    <td>
+   <a href="https://www.instagram.com/y_u_g_p_a_t_e_l_1290/">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+   </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -45,32 +59,19 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 ### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,js,redis,prisma,ts,python" />
-  <img
-    src="https://cdn.simpleicons.org/socketdotio/ffffff"
-    width="48"
-    height="48"
-    style="background-color:#0d1117; padding:10px; border-radius:12px;"
-  />
+  <img src="https://cdn.simpleicons.org/socketdotio/ffffff"
+       width="48"
+       style="vertical-align:middle;" />
 </p>
-
 
 ---
 
 ### ☁️ DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,git,azure,github,docker,postman,npm,yarn,vscode" />
-  <img
-  src="https://cdn.simpleicons.org/render/ffffff"
-  width="38"
-  height="38"
-  style="
-    background-color:#000000;
-    padding:8px;
-    border-radius:10px;
-    border:1px solid #30363d;
-  "
-/>
-
+  <img src="https://cdn.simpleicons.org/render/ffffff"
+       width="38"
+       style="vertical-align:middle;" />
 </p>
 
 </p>
@@ -99,10 +100,10 @@ Focused on **clean code**, **performance**, and **great UX** ✨
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YUG3011&layout=donut&theme=dracula" width="100%" />
     </td>
   </tr>
-</table>
+</table>       
 </div>
 
 <!-- <hr>
 <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,azure,docker,postgres,mongodb,prisma,git,github,express,vercel,js,tailwind,vite,python,postman,npm,yarn,html,css,bootstrap,sass,figma,vscode&perline=7" />
-<hr> -->
-
+<hr>  -->
+ 
