@@ -58,7 +58,7 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,js,redis,prisma,ts,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,postgresql,js,redis,prisma,ts,python" />
   <img src="https://cdn.simpleicons.org/socketdotio/ffffff"
        width="48"
        style="vertical-align:middle;" />
