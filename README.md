@@ -106,4 +106,20 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 <!-- <hr>
 <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,azure,docker,postgres,mongodb,prisma,git,github,express,vercel,js,tailwind,vite,python,postman,npm,yarn,html,css,bootstrap,sass,figma,vscode&perline=7" />
 <hr>  -->
- 
+
+<br>
+
+
+
+<p align="center">
+  <!-- 🔥 Row 1 -->
+  <!-- <img src="https://skillicons.dev/icons?i=ts,next,react,nodejs,azure,docker,postgresql,mongodb,redis,prisma,git,github,express" />
+ <img src="https://cdn.simpleicons.org/socketdotio/ffffff"
+       width="48"
+       style="vertical-align:middle;" /> -->
+</p>
+
+<p align="center">
+  <!-- ⚡ Row 2 -->
+  <!-- <img src="https://skillicons.dev/icons?i=vercel,js,tailwind,vite,django,python,postman,npm,html,css,bootstrap,sass,figma,vscode" /> -->
+</p>
