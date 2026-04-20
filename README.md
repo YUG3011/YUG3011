@@ -116,16 +116,16 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 <br>
 
 
-
+<!-- <h1 align="center">🛠 Tech Stack</h1>
 <p align="center">
-  <!-- 🔥 Row 1 -->
-  <!-- <img src="https://skillicons.dev/icons?i=ts,next,react,nodejs,azure,docker,postgresql,mongodb,redis,prisma,git,github,express" />
+  
+  <img src="https://skillicons.dev/icons?i=ts,next,react,nodejs,azure,docker,postgresql,mongodb,redis,prisma,git,express,github" />
  <img src="https://cdn.simpleicons.org/socketdotio/ffffff"
        width="48"
-       style="vertical-align:middle;" /> -->
+       style="vertical-align:middle;" />
 </p>
 
 <p align="center">
-  <!-- ⚡ Row 2 -->
-  <!-- <img src="https://skillicons.dev/icons?i=vercel,js,tailwind,vite,django,python,postman,npm,html,css,bootstrap,sass,figma,vscode" /> -->
-</p>
+ 
+  <img src="https://skillicons.dev/icons?i=vercel,js,tailwind,vite,django,python,postman,npm,html,css,bootstrap,sass,figma,vscode" />
+</p>  -->
