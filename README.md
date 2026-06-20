@@ -35,11 +35,12 @@ Focused on **clean code**, **performance**, and **great UX** ✨
    <a href="https://www.instagram.com/y_u_g_p_a_t_e_l_1290/">
         <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
-   </td>
-<td align="center" width="60" height="60">
-  <a href="https://drive.google.com/file/d/1E3wZlvv8UjIYhKtjGj2LL0fUYHAYGFpg/view?usp=sharing" target="_blank" style="text-decoration:none;">
-    <div style="font-size:24px;">📄</div>
-    <div style="font-size:14px; font-weight:bold;">Resume</div>
+    </td>
+<td align="center">
+  <a href="https://drive.google.com/file/d/1E3wZlvv8UjIYhKtjGj2LL0fUYHAYGFpg/view?usp=sharing">
+    <img src="https://img.icons8.com/fluency/48/resume.png" width="48" />
+    <br/>
+    Resume
   </a>
 </td>
   </tr>
