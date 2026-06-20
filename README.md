@@ -37,7 +37,7 @@ Focused on **clean code**, **performance**, and **great UX** ✨
     </a>
     </td>
 <td align="center">
-  <a href="https://drive.google.com/file/d/1E3wZlvv8UjIYhKtjGj2LL0fUYHAYGFpg/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1yl4MKrOkcYo3CcrVh6ilFuJ1SegdQE6j/view?usp=sharing">
     <img src="https://img.icons8.com/fluency/48/resume.png" width="48" />
     <br/>
     Resume
