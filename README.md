@@ -2,7 +2,7 @@
 
 #  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=👋Yug%20Patel&fontSize=40&fontColor=ffffff" />
 
-### Full Stack Developer building modern, fast, and delightful web experiences  
+### Software Developer building modern, fast, and delightful web experiences  
 **MERN • JavaScript • TypeScript • Next.js**
 
 Focused on **clean code**, **performance**, and **great UX** ✨
