@@ -75,7 +75,7 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ### ☁️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,git,azure,github,docker,postman,npm,yarn,vscode" />
+  <img src="https://skillicons.dev/icons?i=vercel,git,azure,github,docker,jenkins,postman,npm,yarn,vscode" />
   <img src="https://cdn.simpleicons.org/render/ffffff"
        width="38"
        style="vertical-align:middle;" />
