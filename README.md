@@ -58,14 +58,14 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,scss,bootstrap,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,scss,bootstrap,vite,figma,androidstudio" />
 </p>
 
 ---
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,postgresql,js,redis,prisma,ts,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,django,postgresql,js,redis,prisma,ts,python,kafka,firebase" />
   <img src="https://cdn.simpleicons.org/socketdotio/ffffff"
        width="48"
        style="vertical-align:middle;" />
@@ -75,11 +75,12 @@ Focused on **clean code**, **performance**, and **great UX** ✨
 
 ### ☁️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,git,azure,github,docker,ubuntu,jenkins,postman,npm,yarn,vscode" />
-  <img src="https://cdn.simpleicons.org/render/ffffff"
-       width="38"
-       style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=vercel,git,azure,github,docker,ubuntu,jenkins,postman,npm,yarn,aws,cloudflare" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=kubernetes,githubactions,nginx,linux,bash,pnpm,vitest,jest,sentry,grafana,prometheus" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/render/ffffff" width="42" />
+
 </p>
+
 
 </p>
 
